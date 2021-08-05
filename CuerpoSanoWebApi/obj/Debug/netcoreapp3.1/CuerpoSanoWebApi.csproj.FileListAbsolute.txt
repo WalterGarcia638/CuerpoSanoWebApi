@@ -119,8 +119,6 @@ C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Debug\netcoreapp3
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.csprojAssemblyReference.cache
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.AssemblyInfoInputs.cache
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.AssemblyInfo.cs
-C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.csproj.CoreCompileInputs.cache
-C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.RazorTargetAssemblyInfo.cache
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.csproj.CopyComplete
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\staticwebassets\CuerpoSanoWebApi.StaticWebAssets.Manifest.cache
@@ -128,3 +126,10 @@ C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.dll
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.pdb
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.genruntimeconfig.cache
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.MvcApplicationPartsAssemblyInfo.cache
