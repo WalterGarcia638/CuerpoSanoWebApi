@@ -61,6 +61,7 @@ namespace CuerpoSanoWebApi
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors("CorsPolicy");
             app.UseHttpsRedirection();
 
 
