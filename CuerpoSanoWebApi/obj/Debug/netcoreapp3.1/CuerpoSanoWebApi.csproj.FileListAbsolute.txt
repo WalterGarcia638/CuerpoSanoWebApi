@@ -134,3 +134,4 @@ C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Debug\netcoreapp3.1\CuerpoSanoWebApi.csprojAssemblyReference.cache

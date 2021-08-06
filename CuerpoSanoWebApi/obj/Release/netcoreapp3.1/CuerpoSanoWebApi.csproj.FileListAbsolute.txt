@@ -63,3 +63,10 @@ C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Release\netcoreap
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Release\netcoreapp3.1\CuerpoSanoWebApi.dll
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Release\netcoreapp3.1\CuerpoSanoWebApi.pdb
 C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Release\netcoreapp3.1\CuerpoSanoWebApi.genruntimeconfig.cache
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Release\netcoreapp3.1\MySqlConnector.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Release\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wgarcia\Desktop\CuerpoSanoWebApi\CuerpoSanoWebApi\obj\Release\netcoreapp3.1\CuerpoSanoWebApi.MvcApplicationPartsAssemblyInfo.cs
